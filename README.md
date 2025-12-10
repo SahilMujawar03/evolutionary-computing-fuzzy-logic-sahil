@@ -4,10 +4,6 @@
 This repository contains my complete implementation of **Differential Evolution**, **Genetic Algorithms**, and **Fuzzy Logic systems** in MATLAB.  
 The project demonstrates optimization techniques, multi-run analysis, visualization, and rule-based fuzzy inference — developed as part of my MSc Artificial Intelligence coursework at De Montfort University.
 
----
-
-## 📁 Repository Structure
-
 ## 📁 Repository Structure
 
 ```
