@@ -8,58 +8,60 @@ The project demonstrates optimization techniques, multi-run analysis, visualizat
 
 ## 📁 Repository Structure
 
-(your tree)
+## 📁 Repository Structure
 
+```
 Evolutionary-Computing-and-Fuzzy-Logic-Sahil/
 │
 ├── Differential_Evolution/
-│ ├── de.m
-│ ├── Sphere.m
-│ └── Rosenbrock.m
+│   ├── de.m
+│   ├── Sphere.m
+│   └── Rosenbrock.m
 │
 ├── Genetic_Algorithm/
-│ ├── RunGA.m
-│ ├── RunMultipleTimes.m
-│ ├── SelectionFunction.m
-│ ├── TournamentSelection.m
-│ ├── RankSelection.m
-│ ├── RouletteWheelSelection.m
-│ ├── Crossover.m
-│ ├── Mutation.m
-│ ├── SortPopulation.m
-│ ├── RosenbrockFunction.m
-│ ├── FullPipeline.m
-│ ├── ComputeFinalStatistics.m
-│ └── FinalStatistics.m
+│   ├── RunGA.m
+│   ├── RunMultipleTimes.m
+│   ├── SelectionFunction.m
+│   ├── TournamentSelection.m
+│   ├── RankSelection.m
+│   ├── RouletteWheelSelection.m
+│   ├── Crossover.m
+│   ├── Mutation.m
+│   ├── SortPopulation.m
+│   ├── RosenbrockFunction.m
+│   ├── FullPipeline.m
+│   ├── ComputeFinalStatistics.m
+│   └── FinalStatistics.m
 │
 ├── Fuzzy_Logic/
-│ └── fuzzy_logic.m
+│   └── fuzzy_logic.m
 │
 └── Results/
-├── Run1_SideBySide.png
-├── Run2_SideBySide.png
-├── Run3_SideBySide.png
-├── Run4_SideBySide.png
-├── Run5_SideBySide.png
-├── Run6_SideBySide.png
-├── Run7_SideBySide.png
-├── Run8_SideBySide.png
-├── Run9_SideBySide.png
-├── Run10_SideBySide.png
-├── Run11_SideBySide.png
-├── Run12_SideBySide.png
-├── Run13_SideBySide.png
-├── Run14_SideBySide.png
-├── Run15_SideBySide.png
-├── Run16_SideBySide.png
-├── Run17_SideBySide.png
-├── Run18_SideBySide.png
-├── Run19_SideBySide.png
-├── Run20_SideBySide.png
-├── results_A.txt
-├── results_B.txt
-└── results_C.txt
----
+    ├── Run1_SideBySide.png
+    ├── Run2_SideBySide.png
+    ├── Run3_SideBySide.png
+    ├── Run4_SideBySide.png
+    ├── Run5_SideBySide.png
+    ├── Run6_SideBySide.png
+    ├── Run7_SideBySide.png
+    ├── Run8_SideBySide.png
+    ├── Run9_SideBySide.png
+    ├── Run10_SideBySide.png
+    ├── Run11_SideBySide.png
+    ├── Run12_SideBySide.png
+    ├── Run13_SideBySide.png
+    ├── Run14_SideBySide.png
+    ├── Run15_SideBySide.png
+    ├── Run16_SideBySide.png
+    ├── Run17_SideBySide.png
+    ├── Run18_SideBySide.png
+    ├── Run19_SideBySide.png
+    ├── Run20_SideBySide.png
+    ├── results_A.txt
+    ├── results_B.txt
+    └── results_C.txt
+```
+
 
 ## 🚀 Project Overview
 
