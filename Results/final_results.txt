@@ -1,0 +1,4 @@
+Performance A - Median Best Cost: 0.197802
+Performance B - Mean Best Cost: 0.274633
+Performance C - Mean Best Cost: 0.377384
+
